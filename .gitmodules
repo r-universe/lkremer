@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ggpointdensity"]
 	path = ggpointdensity
 	url = https://github.com/lkremer/ggpointdensity
-	shallow = true
-	registered = true
